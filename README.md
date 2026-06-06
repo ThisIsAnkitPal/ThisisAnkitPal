@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Ankit 👋 
+Aspiring Data Scientist & ML Engineer 
+Skills: Python | SQL | Machine Learning | Statistics | NumPy | Pandas | Scikit-Learn 
+Currently working on: • House Price Prediction App • Machine Learning Projects  Learning: Advanced Machine Learning and Model Deployment 
+Connect with me [LinkedIn] : 
+
+
+
 
 <!--
 **ThisIsAnkitPal/ThisisAnkitPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
